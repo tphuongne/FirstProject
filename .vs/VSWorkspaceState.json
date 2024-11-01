@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\netflix",
+    "\\netflix\\.angular",
+    "\\netflix\\src",
+    "\\netflix\\src\\app",
+    "\\netflix\\src\\app\\core",
+    "\\netflix\\src\\app\\core\\components",
+    "\\netflix\\src\\app\\pages",
+    "\\netflix\\src\\app\\pages\\login",
+    "\\netflix\\src\\app\\shared",
+    "\\netflix\\src\\app\\shared\\components"
+  ],
+  "SelectedNode": "\\netflix\\.angular",
+  "PreviewInSolutionExplorer": false
+}
